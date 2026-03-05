@@ -11,4 +11,15 @@ A simple machine learning classification demo using the classic Iris dataset.
 ## Run locally
 ```bash
 pip install -r requirements.txt
+
+python app.py
+
+
+---
+
+## 7) Run & Test (Local)
+Terminal open in that folder:
+
+```bash
+pip install -r requirements.txt
 python app.py
